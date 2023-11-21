@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    border:none;
+    box-sizing:border-box
+}
+
+
+ul {
+    list-style: none;
+}
+
+header  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+header {
+    margin-top:12px;
+}
